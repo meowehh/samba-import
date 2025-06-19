@@ -10,7 +10,7 @@ apt-get install openldap-clients pip -y
 
 pip install setproctitle
 
-Скачать репозиторий.
+Скачать репозиторий. git clone https://github.com/meowehh/samba-import
 
 Использовать команду из before_script для обоих скриптов.
 
