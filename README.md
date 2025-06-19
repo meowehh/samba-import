@@ -1,6 +1,6 @@
 Необходимые компоненты для работы скрипта:
 
-Установить openldap-clients и pip.
+Установить openldap-clients и pip + setproctitle
 
 apt-get install openldap-clients pip -y
 
